@@ -1,0 +1,1001 @@
+[
+  {
+    "date": "2026-10-19",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 400,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 403,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 406,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 409,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 412,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 415,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 418,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 25,
+    "net_revenue": 500,
+    "variable_costs": 100
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 421,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 424,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 427,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 430,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 433,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 436,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 20,
+    "net_revenue": 439,
+    "variable_costs": 80
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 3,
+    "net_revenue": 90,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 0,
+    "net_revenue": 0,
+    "variable_costs": 0
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 1,
+    "net_revenue": 20,
+    "variable_costs": 5
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 150,
+    "variable_costs": 40
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 5,
+    "net_revenue": 120,
+    "variable_costs": 30
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "purchases": 12,
+    "net_revenue": 240,
+    "variable_costs": 60
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "purchases": 15,
+    "net_revenue": 300,
+    "variable_costs": 70
+  }
+]

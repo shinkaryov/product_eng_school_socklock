@@ -1,0 +1,15 @@
+{
+  "inputs": {
+    "ads": {"decimal_separator": ",", "date_format": "%Y-%m-%d"},
+    "analytics": {"columns": {"net_revenue": "net_revenue", "variable_costs": "variable_costs"}}
+  },
+  "analysis": {
+    "thresholds": {"min_spend": 100, "min_purchases": 10, "kill_romi": 0, "scale_romi": 25, "maturity_days": 3},
+    "currencies": {"EUR": {"min_spend": 90}},
+    "min_days": 3,
+    "min_impressions": 1000,
+    "min_clicks": 30,
+    "min_coverage": 1.0,
+    "trend_drop_pp": 20
+  }
+}

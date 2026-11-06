@@ -1,0 +1,91 @@
+{
+  "version": "2.0",
+  "previous_start": "2026-10-19",
+  "previous_end": "2026-10-25",
+  "current_start": "2026-10-26",
+  "current_end": "2026-11-01",
+  "as_of": "2026-11-05",
+  "sources": [
+    {
+      "file": "ua_insight/demo/ads_meta.csv",
+      "format": ".csv",
+      "rows": 112,
+      "mapping": {
+        "date": "Reporting starts",
+        "ad_id": "Ad ID",
+        "country": "Country",
+        "currency": "Currency",
+        "spend": "Amount spent",
+        "impressions": "Impressions",
+        "clicks": "Link clicks"
+      },
+      "options": {
+        "decimal_separator": ",",
+        "date_format": "%Y-%m-%d"
+      },
+      "sha256": "1133401f78699af8b40c3f43311011e8bc733095327748a5f8e20932806d0a46"
+    },
+    {
+      "file": "ua_insight/demo/analytics.jsonl",
+      "format": ".jsonl",
+      "rows": 111,
+      "mapping": {
+        "date": "date",
+        "ad_id": "ad_id",
+        "country": "country",
+        "currency": "currency",
+        "purchases": "purchases",
+        "net_revenue": "net_revenue",
+        "variable_costs": "variable_costs"
+      },
+      "options": {
+        "columns": {
+          "net_revenue": "net_revenue",
+          "variable_costs": "variable_costs"
+        }
+      },
+      "sha256": "0a2f5c0f6dae9131bd05ca2f218ef64933cccdbcc66ec7af017a90b1e74ade76"
+    }
+  ],
+  "config": {
+    "inputs": {
+      "ads": {
+        "decimal_separator": ",",
+        "date_format": "%Y-%m-%d"
+      },
+      "analytics": {
+        "columns": {
+          "net_revenue": "net_revenue",
+          "variable_costs": "variable_costs"
+        }
+      }
+    },
+    "analysis": {
+      "thresholds": {
+        "min_spend": 100,
+        "min_purchases": 10,
+        "kill_romi": 0,
+        "scale_romi": 25,
+        "maturity_days": 3
+      },
+      "currencies": {
+        "EUR": {
+          "min_spend": 90
+        }
+      },
+      "min_days": 3,
+      "min_impressions": 1000,
+      "min_clicks": 30,
+      "min_coverage": 1.0,
+      "trend_drop_pp": 20
+    }
+  },
+  "defaults": {
+    "min_spend": 100,
+    "min_purchases": 10,
+    "kill_romi": 0,
+    "scale_romi": 25,
+    "maturity_days": 3
+  },
+  "assumptions": "Same timezone, daily grain and attribution model; explicit zero rows; no FX conversion. Baseline is previous equal-length window."
+}

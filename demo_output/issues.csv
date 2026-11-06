@@ -1,0 +1,2 @@
+﻿date,ad_id,country,currency,severity,period,issue
+2026-10-29,tracking_gap,US,USD,error,current,Missing analytics row

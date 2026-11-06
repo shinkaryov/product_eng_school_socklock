@@ -1,0 +1,1010 @@
+[
+  {
+    "date": "2026-10-19",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-19",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-20",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-21",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-22",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-23",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-24",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-25",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-26",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-27",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-28",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-29",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-30",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-10-31",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "steady_winner",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "loser",
+    "country": "US",
+    "currency": "USD",
+    "spend": 180,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "no_sales",
+    "country": "US",
+    "currency": "USD",
+    "spend": 140,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "small_sample",
+    "country": "US",
+    "currency": "USD",
+    "spend": 3,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "hold",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "tracking_gap",
+    "country": "US",
+    "currency": "USD",
+    "spend": 90,
+    "impressions": 10000,
+    "clicks": 200
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "declining",
+    "country": "US",
+    "currency": "USD",
+    "spend": 100,
+    "impressions": 10000,
+    "clicks": 100
+  },
+  {
+    "date": "2026-11-01",
+    "ad_id": "europe_winner",
+    "country": "FR",
+    "currency": "EUR",
+    "spend": 80,
+    "impressions": 9000,
+    "clicks": 180
+  }
+]
